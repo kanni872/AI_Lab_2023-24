@@ -10,7 +10,7 @@
 
 ## **AIM:**
 
-To write a Python program that trains a classifier to recommend songs based on user preferences using supervised learning and clustering analysis, and automatically generates a playlist of similar tracks.
+To write a Python program that trains  classifier to recommend songs based on user preferences using supervised learning and clustering analysis, and automatically generates a playlist of similar tracks.
 
 ---
 
